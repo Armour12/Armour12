@@ -59,7 +59,7 @@
 
 <p align="center">
 <a href="https://github.com/Armour12">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Armour12&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Armour12&layout=compact&langs_count=8&theme=radical"/>
 </a>
 </p>
   <hr>
