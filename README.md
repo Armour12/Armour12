@@ -30,7 +30,7 @@
   ✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
   ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
   ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
-   
+
   
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -59,9 +59,14 @@
 
 <p align="center">
 <a href="https://github.com/Armour12">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Armour12&layout=compact&langs_count=8&theme=radical&hide=C#"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Armour12&layout=compact&langs_count=8&theme=radical&hide=jupyter notebook"/>
 </a>
 </p>
   <hr>
+    <p align="center"> 
+  <b>Visitor count</b><br>
+  <img src="https://profile-counter.glitch.me/Armour12/count.svg" />
+  </br>
+</p>
     </body>
 </html>
