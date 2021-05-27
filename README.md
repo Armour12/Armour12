@@ -21,7 +21,6 @@
   <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
   
- 
   
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
   
@@ -57,9 +56,10 @@
   ![Android](https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=white)
 
 
+
 <p align="center">
 <a href="https://github.com/Armour12">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Armour12&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Armour12&layout=compact&langs_count=8&theme=radical&hide=C#"/>
 </a>
 </p>
   <hr>
