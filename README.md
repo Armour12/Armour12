@@ -3,7 +3,7 @@
  
   <hr>
   <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">, I am Dhruv Patel </h1>
-  <h3 align="center">I'm a Undergad Student and I'm into Coding! </h3>
+  <h3 align="center">I'm a Student and I'm into Coding! </h3>
   <p align="center">
     <img src="https://img.shields.io/badge/Age-22-blue" />
       <img src="https://img.shields.io/badge/Lives-India-success" />
