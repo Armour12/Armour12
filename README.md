@@ -11,7 +11,8 @@
     </p>
   <p align="center">
 <!--   <a href="https://www.hackerearth.com/@dhruvpatel1750" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/HackerEarth_logo.png/480px-HackerEarth_logo.png" alt="hack_ovindu" height="30" width="40" /></a> -->
-   <a href="https://leetcode.com/pateldhrna17ce/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="fb_ovindu" height="30" width="40" /></a>
+   <a href="https://www.codingninjas.com/studio/profile/Dhruv_3d53" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.codingninjas.com%2Fblog%2F&psig=AOvVaw2_xWkTvJfmGbYotPd5q5-f&ust=1709764464785000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMC5vKKX3oQDFQAAAAAdAAAAABAJ" alt="coding_Studio"  height="30" width="40" /></a>
+   <a href="https://leetcode.com/dhruvpatel1750/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="fb_ovindu" height="30" width="40" /></a>
    <a href="https://www.hackerrank.com/pateldhruv1710" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ovindu" height="30" width="40" /></a>
    <a href = "mailto: dhruvpatel1750@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 
